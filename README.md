@@ -1,1 +1,1 @@
-# ML_Project_Heart_Disease_Risk_Predidtion
+# ML_KNN_Project_Heart_Disease_Risk_Prediction
